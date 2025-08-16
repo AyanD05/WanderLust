@@ -60,7 +60,7 @@ body {
   font-size: 1.2rem;
   margin-right: 1rem;
 }
-.card {
+.listing-card {
   border: none !important;
   margin-bottom: 2rem;
 }
@@ -87,7 +87,7 @@ body {
   border: none !important;
 }
 .show-img{
-    height: 30vh;
+    height: 40vh;
 }
 .btns{
     display: flex;
