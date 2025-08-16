@@ -1,1 +1,1 @@
-A resort booking website inspired from Airbnb,
+A resort booking website inspired from Airbnb.
